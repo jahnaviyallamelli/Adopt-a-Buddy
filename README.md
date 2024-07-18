@@ -1,5 +1,5 @@
 # Adopt a Buddy
-#### Welcome to Adopt a Buddy! This project is built using the MERN stack and aims to connect people with their future pets. Our platform categorizes pets into dogs, cats, and other animals, allowing users to easily browse through them. If a user is interested in adopting a pet, they can fill out an adoption form and will receive a confirmation message that their adoption request has been submitted.
+#### Welcome to Adopt a Buddy! This project is built using the MERN stack and aims to connect people with their future pets. This platform categorizes pets into dogs, cats, and other animals, allowing users to easily browse through them. If a user is interested in adopting a pet, they can fill out an adoption form and will receive a confirmation message that their adoption request has been submitted.
 ## Features  
   - Browse Pets:Users can explore the available pets categorized by dogs, cats, and other animals.
   - Adoption Form: Users interested in adopting a pet can fill out an adoption form.
