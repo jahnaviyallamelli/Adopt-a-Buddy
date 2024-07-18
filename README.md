@@ -9,15 +9,11 @@ The project is organized into two main parts: the client (frontend) and the serv
 
 The client directory contains the React application which includes components, pages, and the main app configuration.
 The server directory contains the Node.js and Express backend, including database configurations, API controllers, models, and routes.
+
 How to Get Started
 Clone the repository: Download the project to your local machine using the command:
-bash
-Copy code
-git clone https://github.com/your-username/adopt-a-buddy.git
 Install dependencies: Navigate to both the client and server directories and run npm install to install all necessary dependencies.
-
 Set up environment variables: Create a .env file in the server directory with your MongoDB URI and the port number you wish to use.
-
 Run the application: Start the backend server by navigating to the server directory and running npm start. In a separate terminal, start the frontend by navigating to the client directory and running npm start. Your application should now be running on http://localhost:3000.
 
 How to Use the Application
