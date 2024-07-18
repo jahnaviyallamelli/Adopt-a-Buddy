@@ -1,0 +1,10 @@
+.navLink {
+  padding: 0 16px;
+  text-decoration: none;
+  color: #1976d2; /* Primary link color */
+}
+
+.activeNavLink {
+  color: grey; /* Active link color */
+  font-weight: bold; /* Example: Make active links bold */
+}
